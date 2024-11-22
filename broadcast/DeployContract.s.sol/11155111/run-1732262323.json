@@ -1,0 +1,34 @@
+{
+  "transactions": [
+    {
+      "hash": null,
+      "transactionType": "CREATE",
+      "contractName": "SimpleContract",
+      "contractAddress": "0xf0de20c639d037837ccd1d6f1fca437a9f0036c4",
+      "function": null,
+      "arguments": null,
+      "transaction": {
+        "from": "0x7470f6b0b356513cdd30c352e5fc787e23376b7a",
+        "gas": "0x21289",
+        "value": "0x0",
+        "input": "0x6080604052348015600e575f5ffd5b5060ec8061001b5f395ff3fe6080604052348015600e575f5ffd5b5060043610603a575f3560e01c80633fb5c1cb14603e5780638381f58a14604f578063d09de08a146068575b5f5ffd5b604d6049366004607d565b5f55565b005b60565f5481565b60405190815260200160405180910390f35b604d5f805490806076836093565b9190505550565b5f60208284031215608c575f5ffd5b5035919050565b5f6001820160af57634e487b7160e01b5f52601160045260245ffd5b506001019056fea26469706673582212201f514282b1fcf18988bff41af9ef0121c4cbf1d269aee8e7d5aae93fa38ae46664736f6c634300081c0033",
+        "nonce": "0x0",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    }
+  ],
+  "receipts": [],
+  "libraries": [],
+  "pending": [],
+  "returns": {
+    "0": {
+      "internal_type": "contract SimpleContract",
+      "value": "0xf0De20c639d037837CcD1d6F1fcA437a9f0036C4"
+    }
+  },
+  "timestamp": 1732262323,
+  "chain": 11155111,
+  "commit": "bd3346e"
+}
